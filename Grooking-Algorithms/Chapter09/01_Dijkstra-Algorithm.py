@@ -14,7 +14,7 @@ graph = {
 graph2 = {
     'A': {'B': 10},
     'B': {'C': 20},
-    'C': {'D': 30, 'E': 1},
+    'C': {'D': 50, 'E': 1},
     'D': {},
     'E': {'B': 1}
 }
@@ -64,6 +64,6 @@ source_node = 'A'
 destination_node = 'D'
 
 # Find the shortest distance and path
-shortest_distance, path = dijkstra_with_path(graph2, source_node, destination_node)
+shortest_distance, path = dijkstra_with_path(graph, source_node, destination_node)
 print(f"Shortest distance from {source_node} to {destination_node}: {shortest_distance}")
 print(f"Path: {' -> '.join(path)}")
