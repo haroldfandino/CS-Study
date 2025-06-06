@@ -7,19 +7,18 @@ I've started on September 23th, 2024, let's see how much time this takes to fini
 
 This list could change.
 
-- Code: The Hidden Language of Computer Hardware and Software.
-- Grokking Algorithms
-- CS50, Harvard University's introduction to CS.
-- 3Blue1Brown: Linear Algebra
-- Git Pocket Guide: A Working Introduction
-- 3Blue1Brown: Calculus
-- Learning Python
-- 3Blue1Brown: Differential Equations
+- ✅ Code: The Hidden Language of Computer Hardware and Software.
+- ✅ Grokking Algorithms
+- ✅ CS50, Harvard University's introduction to CS.
+- ✅ Git Pocket Guide: A Working Introduction
+- ▶️ Learning Python
 - Structure and Interpretation of Computer Programs
+- 3Blue1Brown: Linear Algebra, Calculus, Differential Equations
 - The Algorithm Design Manual
-- Artificial Intelligence: A Modern Approach
+- Computer Systems: A Programmer's Perspective
+- Crafting Interpreters
 - Operating Systems: Three Easy Pieces
 - Computer Networking: A Top-Down Approach
 - Database System Concepts
-- Principles of Corporate Finance
 - Designing Data-Intensive Applications
+- Artificial Intelligence: A Modern Approach
