@@ -12,6 +12,7 @@ This list could change.
 - ✅ CS50, Harvard University's introduction to CS.
 - ✅ Git Pocket Guide: A Working Introduction
 - ▶️ Learning Python
+- ▶️ Boot.dev Python
 - Structure and Interpretation of Computer Programs
 - 3Blue1Brown: Linear Algebra, Calculus, Differential Equations
 - The Algorithm Design Manual
